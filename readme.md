@@ -5,8 +5,10 @@
 ## Laser Cutting
 
 **a. Include a photo of your box here.**
-![Box1]()
-![Box2]()
+
+![Box1](IMG_0779.jpg)
+![Box2](IMG_0780.jpg)
+![Box3](IMG_0782.jpg)
 
 **b. Include `.stl` files.**
 
