@@ -14,6 +14,7 @@
 
 **a. Include a photo of your printed part here.**
 
+![Pac Man Ghost](https://photos.app.goo.gl/hSgHmm3Q9QgYQgoG6)
 
 **b. Include `.stl` or `.svg` files if you made modifications.**
 
