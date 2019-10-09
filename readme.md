@@ -7,12 +7,17 @@
 **a. Include a photo of your box here.**
 **b. Include `.stl` files.**
 
+[box design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Lab5/boxTall.pdf)
 
 
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
+
+
 **b. Include `.stl` or `.svg` files if you made modifications.**
+
+[Pac Man Ghost stl file](https://github.com/drywitte/IDD-Fa19-Lab5/blob/master/Dan%20Witte%20Lab%205.stl)
 
 ## Electronics
 
@@ -88,7 +93,7 @@ void loop()
 ```
 
 1. At least one photo of your Jack in the Box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-[]
+
 
 1. A video of your Jack in the Box in action.
 
