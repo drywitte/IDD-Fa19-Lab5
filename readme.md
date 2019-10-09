@@ -24,6 +24,8 @@
 
 **a. Upload code & a photo of your electronic circuit here.**
 
+![Circuit](IMG_0776.jpg)
+
 ## Putting it All Together
 
 Include here:
