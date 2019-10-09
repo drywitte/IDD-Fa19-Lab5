@@ -5,6 +5,9 @@
 ## Laser Cutting
 
 **a. Include a photo of your box here.**
+![Box1]()
+![Box2]()
+
 **b. Include `.stl` files.**
 
 [box design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Lab5/boxTall.pdf)
