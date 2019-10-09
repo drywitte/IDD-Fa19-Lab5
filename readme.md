@@ -97,6 +97,7 @@ void loop()
 
 2. At least one photo of your Jack in the Box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 
+![Jack](IMG_0778.jpg)
 
 3. A video of your Jack in the Box in action.
 
